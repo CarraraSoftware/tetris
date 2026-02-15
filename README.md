@@ -19,4 +19,4 @@ python main.py
 
 
 live streams writing all this stuff:
-- [TETRIS Playlist](https://youtube.com/@CarraraSoftware)
+- [TETRIS Playlist](https://www.youtube.com/playlist?list=PLLqDGHpwYSOfg5I8aBlGlVGmav69nZgXf)
